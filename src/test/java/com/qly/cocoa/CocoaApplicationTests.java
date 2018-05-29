@@ -1,4 +1,4 @@
-package com.qly.cocoa.cocoa;
+package com.qly.cocoa;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
