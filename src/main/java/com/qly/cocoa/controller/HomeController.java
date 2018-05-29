@@ -7,8 +7,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class HomeController {
 	@RequestMapping("/")
 	public String Home(){
-		
-		
 		System.out.println(">>home");
 		return "/blog/index";
 	}
