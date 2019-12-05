@@ -9,6 +9,8 @@ public class HomeController {
 	public String Home(){
 		System.out.println(">>home");
 		System.out.println("修改测试controller");
+
+		System.out.println("修改测试controller");
 		return "/blog/index";
 	}
 }
